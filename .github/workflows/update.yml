@@ -1,0 +1,49 @@
+name: Update Member List
+
+on:
+  push:
+    paths:
+      - 'verif.json'
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Convert verif.json to member-list.json
+        run: |
+          node -e "
+          const fs = require('fs');
+          const data = JSON.parse(fs.readFileSync('verif.json', 'utf8'));
+          const members = [];
+          for (const id in data) {
+            data[id].forEach(m => {
+              if (m.username) members.push({
+                username: m.username,
+                nickname: m.nickname
+              });
+            });
+          }
+          fs.mkdirSync('database', { recursive: true });
+          fs.writeFileSync('database/member-list.json', JSON.stringify(members, null, 2));
+          console.log(`✅ Converted ${members.length} members`);
+          "
+      
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add database/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update $(date -u '+%Y-%m-%d %H:%M:%S')"
+          git push
