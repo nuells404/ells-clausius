@@ -1,1 +1,9 @@
-{}
+{
+  "test_group": [
+    {
+      "username": "testuser",
+      "nickname": "Test User",
+      "verifiedAt": 1780330536475
+    }
+  ]
+}
