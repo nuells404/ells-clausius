@@ -1903,8 +1903,9 @@
     {
       "jid": "6282277833112@s.whatsapp.net",
       "lid": "190022724665405@lid",
-      "username": "fansukaseblak",
-      "nickname": "𝙁𝘼𝙉𝙉`𝖋𝖙 𝐍𝐂𝐀᭄"
+      "username": "princefan.ncamem",
+      "nickname": "𝙁𝘼𝙉𝙉`𝖋𝖙 𝐍𝐂𝐀᭄",
+      "inputUsername": "@princefan.ncamem"
     },
     {
       "jid": "6285239021052@s.whatsapp.net",
@@ -2211,13 +2212,6 @@
       "nickname": "ɪʀᴢʏᵖʳˢᵗ 𝖋𝖙 𝐍𝐂𝐀᭄"
     },
     {
-      "jid": "6288216739986@s.whatsapp.net",
-      "lid": "268466108002483@lid",
-      "username": "akbar_japan",
-      "nickname": "𝐊𝐀𝐍𝐀`𝖋𝖙 𝐍𝐂𝐀᭄",
-      "inputUsername": "@akbar_japan"
-    },
-    {
       "jid": "62882007258390@s.whatsapp.net",
       "lid": "163144735449153@lid",
       "username": "kyamihayase",
@@ -2461,13 +2455,6 @@
       "username": "menzycreator",
       "nickname": "『𝐍𝐊𝐅』MENZY 𝖋𝖙  𝐍𝐂𝐀᭄",
       "inputUsername": "@menzycreator"
-    },
-    {
-      "jid": "628155172057@s.whatsapp.net",
-      "lid": "157338275164317@lid",
-      "username": "vanzelln4",
-      "nickname": "𝓩𝙚𝙡𝙡 𝖋𝖙 𝙆𝙂𝙉`𝐍𝐂𝐀᭄",
-      "inputUsername": "@vanzelln4"
     },
     {
       "jid": "6283111642738@s.whatsapp.net",
@@ -2762,6 +2749,13 @@
       "username": "sparxiechan1",
       "nickname": "`𝐍𝐂𝐀᭄𝘀𝗽𝗮𝗿𝘅𝗶𝗲 𝑪𝑨𝑶࿐",
       "inputUsername": "@sparxiechan1"
+    },
+    {
+      "jid": "628155172057@s.whatsapp.net",
+      "lid": "157338275164317@lid",
+      "username": "vanzelln4",
+      "nickname": "𝐕𝗮𝗻 𝖋𝖙 𝙆𝙂𝙉`𝐍𝐂𝐀᭄",
+      "inputUsername": "@vanzelln4"
     }
   ],
   "120363392502401628@g.us": [],
