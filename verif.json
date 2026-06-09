@@ -2532,13 +2532,15 @@
       "jid": "6281545936106@s.whatsapp.net",
       "lid": "72228599271506@lid",
       "username": "falammiko",
-      "nickname": "𝐅𝐚𝐥𝐚𝐦 𝖋𝖙 𝐍𝐂𝐀᭄"
+      "nickname": "𝐅𝐚𝐥𝐚𝐦 𝖋𝖙 𝐍𝐂𝐀᭄",
+      "inputUsername": "@falammiko"
     },
     {
       "jid": "6283128400463@s.whatsapp.net",
       "lid": "25877748387896@lid",
       "username": "dimzz_c11huy",
-      "nickname": "—𝐃𝐢𝐦𝐳𝐳〆𝙆𝙂𝙉`𝐍𝐂𝐀᭄"
+      "nickname": "—𝐃𝐢𝐦𝐳𝐳〆𝙆𝙂𝙉`𝐍𝐂𝐀᭄",
+      "inputUsername": "@dimzz_c11huy"
     }
   ],
   "120363411505832984@g.us": [
@@ -2979,7 +2981,8 @@
       "jid": "6285807233944@s.whatsapp.net",
       "lid": "41227424649350@lid",
       "username": "febri.like.supercar",
-      "nickname": "爻〆𝐌𝐘 Feb 𝐍𝐂𝐀"
+      "nickname": "爻〆𝐌𝐘 Feb 𝐍𝐂𝐀",
+      "inputUsername": "@febri.like.supercar"
     }
   ],
   "120363392502401628@g.us": [],
