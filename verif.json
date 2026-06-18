@@ -2493,13 +2493,6 @@
       "inputUsername": "@inifuzzy"
     },
     {
-      "jid": "62895414336483@s.whatsapp.net",
-      "lid": "24872474386498@lid",
-      "username": "lumin_80",
-      "nickname": "𝙍𝙚𝙞𝙔𝙖𝙩𝙤𝙜𝙖𝙢𝙞`𝐍𝐂𝐀᭄",
-      "inputUsername": "@lumin_80"
-    },
-    {
       "jid": "6285735784984@s.whatsapp.net",
       "lid": "121131600208015@lid",
       "username": "yuzuru_official0",
@@ -2644,7 +2637,7 @@
       "jid": "6287713578638@s.whatsapp.net",
       "lid": "137628468912227@lid",
       "username": "bapaktovtb8",
-      "nickname": "𝘽𝙮𝙖𝙣𝙯`𝖋𝖙 𝐍𝐂𝐀᭄",
+      "nickname": "𝘽𝙮𝙖𝙣 𝖋𝖙 𝐍𝐂𝐀᭄",
       "inputUsername": "@bapaktovtb8"
     },
     {
@@ -3684,7 +3677,8 @@
       "jid": "6287892451664@s.whatsapp.net",
       "lid": "174333477535871@lid",
       "username": "zyy_editoranime",
-      "nickname": "𝙕𝙮𝙮𝐄𝐦`𝐞𝐬𝐤𝐚`𝐍𝐂𝐀᭄"
+      "nickname": "𝙕𝙮𝙮𝐄𝐦`𝐞𝐬𝐤𝐚`𝐍𝐂𝐀᭄",
+      "inputUsername": "@zyy_editoranime"
     }
   ],
   "120363392502401628@g.us": [],
